@@ -1,0 +1,19 @@
+name: com.acegikmo.mathfs
+displayName: Mathfs
+description: Advanced math functionality for Unity
+repoUrl: 'https://github.com/FreyaHolmer/Mathfs'
+parentRepoUrl: null
+licenseSpdxId: MIT
+licenseName: MIT License
+topics:
+  - utilities
+hunter: FreyaHolmer
+gitTagPrefix: ''
+gitTagIgnore: ''
+minVersion: ''
+image: ''
+readme: 'master:README.md'
+readme_zhCN: ''
+displayName_zhCN: ''
+description_zhCN: ''
+createdAt: 1666105194283
